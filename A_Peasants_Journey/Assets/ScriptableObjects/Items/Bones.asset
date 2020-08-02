@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a181df7733920324da675cb2c3104dbb, type: 3}
+  m_Name: Bones
+  m_EditorClassIdentifier: 
+  Id: 0
+  uiDisplay: {fileID: 21300000, guid: b0a38f752e33fe8439b946a813cc0e18, type: 3}
+  type: 2
+  description: The left overs of a corpse.
